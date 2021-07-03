@@ -5,7 +5,7 @@ class Translation(object):
 
 <b>/start untuk memulai kembali</b>"""
     BEFORE_SUCC_LOGIN = "Oke Kode anda sudah diterima, bentar yah😊..."
-    ERRED_PAGE = "ada sesuatu yang salah. gagal mendapatkan Api ID dan HASH kamu. \n\n Contact Me @ZendYNS"
+    ERRED_PAGE = "ada sesuatu yang salah. gagal mendapatkan Api ID dan HASH kamu. \n\n Contact Me @enjoyyourmilk"
     CANCELLED_MESG = "Selamat tinggal! Tolong re /start bot ini untuk memulai kembali"
     IN_VALID_CODE_PVDED = "maaf, tampaknya masukan tersebut bukan kode Login Web Telegram yang valid "
     IN_VALID_PHNO_PVDED = "maaf, masukan tersebut sepertinya bukan nomor telepon yang valid"
