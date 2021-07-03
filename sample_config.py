@@ -35,7 +35,7 @@ class Config:
         "created using https://telegram.dog/Getyourapi_bot"
     )
     #
-    FOOTER_TEXT = os.environ.get("FTEXT", "👻 Creator by @ZendYNS")
+    FOOTER_TEXT = os.environ.get("FTEXT", "👻 Creator by @enjoyyourmilk")
     # the strings used in the different messages
     # in the bot
     START_TEXT = os.environ.get("START_TEXT", Translation.START_TEXT)
